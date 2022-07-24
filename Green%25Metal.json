@@ -1,0 +1,66 @@
+{
+    "manifest": {
+        "version": "1.0",
+        "author": "Techlord#8470",
+        "name": "Green Metal",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/Techlord210\/Aliucord-Themes\/main\/Green%20Metal\/Green%25Metal.json"
+    },
+    "background": {
+        "url": "https://i.redd.it/camq1ms3oaz31.jpg",
+        "blur_radius": 25,
+        "overlay_alpha": 180
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": -16777216,
+        "background_secondary": -16777216,
+        "mention_highlight": 300200960,
+        "accent": -14894821,
+        "blocked_bg": -16777216
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_green": -12666304,
+        "uikit_btn_bg_color_selector_red": -1890997,
+        "reddit": -2725874,
+        "reddit_500": -5089523,
+        "status_red": -1890997,
+        "status_red_100": -1890997,
+        "status_green_100": -13063080,
+        "status_green_130": -14644688,
+        "status_green_160": -14110640,
+        "status_green_200": -13135299,
+        "status_green_230": -12666304,
+        "status_green_260": -14043353,
+        "status_green_300": -12217530,
+        "status_green_330": -12010946,
+        "status_green_360": -12284583,
+        "status_green_400": -12666279,
+        "status_green_430": -15083457,
+        "status_green_460": -12338626,
+        "status_green_500": -12666301,
+        "status_green_530": -14374872,
+        "status_green_560": -12666299,
+        "status_green_600": -12803511,
+        "status_green_630": -12207554,
+        "status_green_660": -15030239,
+        "status_green_700": -14899422,
+        "status_green_730": -13068996,
+        "status_green_760": -12013541,
+        "status_green_800": -12666296,
+        "status_green_830": -13663951,
+        "status_green_960": -13978047,
+        "status_green": -12666257,
+        "uikit_btn_bg_color_selector_brand": -14110658,
+        "primary_600": -14110624,
+        "link": -14110670,
+        "link_500": -14110638,
+        "primary_dark_100": -13816531
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": 427918985,
+        "drawable_button_red": -1890997,
+        "drawable_overlay_channels_active_dark": 1065453193
+    },
+    "raws": {}
+}
